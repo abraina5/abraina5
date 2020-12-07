@@ -6,12 +6,12 @@
   </head>
   <body>
   <style>
-    #first paragraph {
+    #first_paragraph {
       background-color:blue;
       }
     <h1> Prelude to the American Revolution </h1>
     <h2> Introduction </h2>
-    <p id=¨first paragraph¨>
+    <p id=¨first_paragraph¨>
     Before the Seven Years War, also known as the French and Indian War, Great Britain mainly left the thirteen colonies alone. They were:
     <ol>
       <li>Delaware</li>
