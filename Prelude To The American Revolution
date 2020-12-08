@@ -6,6 +6,9 @@
   </head>
   <body>
   <style>
+    body{
+      background-color:rgb(34,161,140)
+         }
     p{
         color:rgb(207,25,201)
       }
