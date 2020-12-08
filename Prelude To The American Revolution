@@ -6,6 +6,9 @@
   </head>
   <body>
   <style>
+    p {
+     color:rgb(252,252,252);
+    }
     .red {
       background-color:red;
       }
