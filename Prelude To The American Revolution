@@ -13,13 +13,13 @@
         color:rgb(207,25,201)
       }
     #intro {
-      background-color:white;
+      background-color:rgb(19,237,73);
      }
     #war {
       background-color:rgb(94, 11, 45)
       }
     #list {
-      background-color:rgb(220,213,222);
+      background-color:rgb(14,237,204);
       }
   </style>
     <h1> Prelude to the American Revolution </h1>
