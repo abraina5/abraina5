@@ -12,6 +12,9 @@
     p{
         color:rgb(207,25,201)
       }
+    #intro {
+      background-color:white;
+     }
   </style>
     <h1> Prelude to the American Revolution </h1>
     <h3> Introduction </h3>
@@ -33,7 +36,7 @@
       <li>Rhode Island</li>
     </ol>
     </p>
-    <p>
+    <p id="intro">
     So, as I was saying earlier, the British Empire allowed the colonies to govern themselves. That means that the colonies were allowed to create their 
     own laws. They were still loyal to Great Britain. The colonies <strong> flourished </strong> under self-governance. The population boomed since at 
     the time, North America was full of opportunities. Beaver hunting, logging, farming, shipbuilding, and raising livestock were just a few of the 
