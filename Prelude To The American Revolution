@@ -18,6 +18,9 @@
     #war {
       background-color:rgb(94, 11, 45)
       }
+    #1763 {
+      background-color:green;
+     }
   </style>
     <h1> Prelude to the American Revolution </h1>
     <h3> Introduction </h3>
@@ -60,7 +63,7 @@
     </p>
     <h2>The Causes of the War</h2>
     <h3>The Proclamation of 1763</h3>
-    <p>
+    <p id="1763">
     Now that the British had won the Seven Years War, they had 2 major issues. The debt, native americans. They first decided to deal with the native 
     americans. Parliament drew an imaginary line on the Appalachian Mountains, and stated that the native americans should stay West, and the colonists 
     should stay East.This angered colonists since the population in the colonies was booming. Eventually, immigrants needed to go west. Also, some 
