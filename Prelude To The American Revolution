@@ -6,7 +6,12 @@
   </head>
   <body>
   <style>
-    
+    .red {
+      background-color:red;
+      }
+    .blue {
+      background-color:blue;
+      }
   </style>
     <h1> Prelude to the American Revolution </h1>
     <h3> Introduction </h3>
