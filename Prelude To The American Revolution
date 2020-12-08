@@ -15,6 +15,9 @@
     #intro {
       background-color:white;
      }
+    #war {
+      background-color:rgb(94, 11, 45)
+      }
   </style>
     <h1> Prelude to the American Revolution </h1>
     <h3> Introduction </h3>
@@ -45,7 +48,7 @@
     War / French and Indian War. 
     </p>
     <h3>The Seven Years War</h3>
-    <p>
+    <p id="war">
     During the Age of Exploration, which was when explorers from different European countries wanted to claim land for their countries, France claimed 
     a majority of Canada while the British claimed the thirteen colonies. The French were moving South while the British were moving West. They met up 
     in the Ohio River Valley. The French established a fort in modern-day Pittsburgh. They called it Fort Duquesne. The British sent George Washington 
