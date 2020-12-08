@@ -13,10 +13,10 @@
         color:rgb(252,252,252)
       }
     #intro {
-      background-color:rgb(19,237,73);
+      background-color:rgb(255,0,0);
      }
     #war {
-      background-color:rgb(0,0,0)
+      background-color:rgb(0,0,255)
       }
     #list {
       background-color:rgb(14,237,204);
