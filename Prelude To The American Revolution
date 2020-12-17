@@ -73,7 +73,7 @@
     parliament. Colonists began crying "No Taxation Without Representation!" The boycotted British products, so the Stamp Act started turning into a money
     loser. Eventually, parliament repealed the Stamp Act. Colonists all over the colonies started celebrating, but they did a little too early.
     </p>
-    <h3><a href="#quartering">The Quartering Act</a></h3>
+    <h3 id="quartering">The Quartering Act</h3>
     <p class="red">
     After the Stamp Act was repealed, the British passed the Quartering Act. This was a law that stated that if British soldiers came knocking on their
     door, the colonists had to feed them, house them, and gave them "candles, furnishing, beer, or cider." You had to do all of this and they didn't
@@ -145,8 +145,8 @@
       <li>British soldiers accused of murder would have a trial in Great Britain, not in the colonies. This would give British soldiers a lower chance of 
       being found guilty since they were <strong>British</strong> soldiers. If they had a great reputation in Great Britain, but was actually pretentious, 
       if they actually murdered someone, court would most likely not find them guilty.</li>
-      <li>The Quartering Act was reinstated</li>
-      <li id="quartering">More British troops would be sent to Boston to enforce these laws</li>
+      <li><a href="#quartering">The Quartering Act was reinstated</a></li>
+      <li>More British troops would be sent to Boston to enforce these laws</li>
     </ul>
     <h3>The First Continental Congress</h3>
     <p class="red">
