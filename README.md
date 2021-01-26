@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Prelude to the American Revolution</title>
-  </head>
-  <body>
-  <style>
-    p {
-     color:rgb(252,252,252);
-    }
-    .red {
-      background-color:red;
-      }
-    .blue {
-      background-color:blue;
-      }
-  </style>
-    <h1> Prelude to the American Revolution </h1>
+ <h1> Prelude to the American Revolution </h1>
     <h3> Introduction </h3>
     <p class="red">
     Before the Seven Years War, also known as the French and Indian War, Great Britain mainly left the thirteen colonies alone. They were:
